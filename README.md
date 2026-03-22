@@ -5,4 +5,5 @@ Tehnologii și metode utilizate:
 - Analiza datelor și statistici descriptive
   - Setul de date cuprinde variabile financiare, indicatori de piață și categorii (gen, autor, editură);
   - Metodologia include curățarea datelor prin eliminarea outlierilor (identificați prin boxplot-uri).
-- Algoritmi de Machine Learning implementați: Clusterizare Fuzzy, Regresie Logistică (Binomială și Multinomială), Arbori de Decizie (Clasificare și Regresie),       K-Nearest Neighbors, Rețele Neuronale
+    
+- Algoritmi de Machine Learning implementați: Clusterizare Fuzzy, Regresie Logistică (Binomială și Multinomială), Arbori de Decizie (Clasificare și Regresie),       K-Nearest Neighbors, Rețele Neuronale.
